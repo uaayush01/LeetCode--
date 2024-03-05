@@ -1,0 +1,53 @@
+                                                                  Using HashMap
+
+class Solution {
+    public int romanToInt(String s) {
+        Map<Character,Integer> m=new HashMap<>();
+        m.put('I',1);
+        m.put('V',5);
+        m.put('X',10);
+        m.put('L',50);
+        m.put('C',100);
+        m.put('D',500);
+        m.put('M',1000);
+
+        int result =0;
+
+        for(int i=0;i<s.length();i++){
+            if(i<s.length()-1&&  m.get(s.charAt(i))<m.get(s.charAt(i+1))){
+                result-=m.get(s.charAt(i));
+            }else{
+                result+=m.get(s.charAt(i));
+            }
+        }
+        return result;
+
+
+    }
+}
+
+                                                                            Wihtout using HashMap
+
+class Solution {
+    public int romanToInt(String s) {
+        int ans=0,num=0,prev=0;
+        for(int j=s.length()-1;j>=0;j--){
+            switch(s.charAt(j)){
+                case 'M' -> num=1000;
+                case 'D' -> num=500;
+                case 'C' -> num=100;
+                case 'L' -> num=50;
+                case 'X' -> num=10;
+                case 'V' -> num=5;
+                case 'I' -> num=1;
+            }
+            if(num<prev){
+                ans-=num;
+            }
+            else
+            ans+=num;
+            prev=num;
+        }
+        return ans;
+    }
+}
