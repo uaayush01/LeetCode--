@@ -1,0 +1,18 @@
+class Solution {
+    public int removeElement(int[] nums, int val) {
+            int index = 0;
+            for(int i=0;i<nums.length;i++){
+                if(nums[i]!=val){
+                    nums[index]=nums[i];
+                    index++;
+                }
+            }
+            return index;
+    }
+}
+
+the code efficiently removes all occurrences of the specified element from the input array and returns the length of the modified array. This is achieved by using a two-pointer approach where one pointer (index) keeps track of the position for non-matching elements.
+
+
+
+
