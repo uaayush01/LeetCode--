@@ -1,0 +1,11 @@
+class Solution {
+    public String convertToTitle(int columnNum) {
+        StringBuilder result=new StringBuilder();
+        while(columnNum>0){
+            int n = (columnNum-1)%26;
+            result.append((char)('A'+ n));
+            columnNum=(columnNum-1)/26;
+        }
+        return result.reverse().toString();  //, the reversing process ensures that the characters are correctly ordered from least significant to most significant, matching the convention used in Excel column titles.
+    }
+}
