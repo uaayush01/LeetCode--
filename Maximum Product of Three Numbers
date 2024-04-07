@@ -1,0 +1,15 @@
+class Solution {
+    public int maximumProduct(int[] nums) {
+       Arrays.sort(nums);
+        
+        int n = nums.length;
+        
+        // Maximum product can be either:
+        // 1. Product of three largest numbers
+        // 2. Product of two smallest (potentially negative) and one largest number
+        int product1 = nums[n - 1] * nums[n - 2] * nums[n - 3]; // Product of three largest
+        int product2 = nums[0] * nums[1] * nums[n - 1]; // Product of two smallest and one largest
+        
+        return Math.max(product1, product2);
+    }
+}
