@@ -1,0 +1,28 @@
+class Solution {
+    public List<Integer> selfDividingNumbers(int left, int right) {
+
+        List<Integer> output = new ArrayList<Integer>();
+
+        for(int i = left; i<= right; i++) {
+
+            if(isSelfDividingNumber(i)) {
+                output.add(i);
+            }
+        }
+        return output;
+        
+    }
+
+    private boolean isSelfDividingNumber(int number) {
+        int numcopy = number;
+
+        while(number!=0) {
+            int digit = number%10;
+            if(digit ==0 || numcopy%digit != 0) {
+                return false;
+            }
+            number = number/10;
+        }
+        return true;
+    }
+}
