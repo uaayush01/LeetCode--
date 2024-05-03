@@ -1,0 +1,15 @@
+class Solution {
+    public void reverseString(char[] s) {
+       
+        reversehelper(0,s.length-1,s);
+    }
+    public void reversehelper(int start ,int end ,char[]s){
+    if(start>=end){
+            return ;
+    }   
+    char temp=s[start];
+    s[start]=s[end];
+    s[end]=temp;  
+    reversehelper(start+1,end-1,s);
+    }
+}
