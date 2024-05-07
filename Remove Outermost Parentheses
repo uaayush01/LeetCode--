@@ -1,0 +1,22 @@
+class Solution {
+    public String removeOuterParentheses(String s) {
+       StringBuilder sb=new StringBuilder();
+      
+       for(int i=0;i<s.length();)
+            i=checkPar(i,s,sb);
+       
+       return sb.toString();
+    }
+    static int checkPar(int i,String s,StringBuilder sb){
+        int t=1,j=i+1;
+        while(t!=0 && j<s.length()){
+            if(s.charAt(j++)=='(')
+                t++;
+            else t--;
+           
+        }
+        sb.append(s.substring(i+1,j-1));
+        return j;
+
+    }
+}
