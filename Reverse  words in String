@@ -1,0 +1,21 @@
+class Solution {
+    public String reverseWords(String s) {
+        char []arr=s.toCharArray();
+        char []ans=new char[arr.length+1];
+        int ptr=arr.length-1,start=0,end=0,k=0;
+        while(ptr>-1){
+            while(ptr>=0 && arr[ptr]==' ')
+                ptr--;
+            if(ptr<0)
+                break;
+            end=ptr;
+            while(ptr>=0 && arr[ptr]!=' ')
+                ptr--;
+            start=ptr+1;
+            for(int i=start;i<=end;i++)
+                ans[k++]=arr[i];
+            ans[k++]=' ';
+        }
+        return new String(ans,0,k-1);
+    }
+}
