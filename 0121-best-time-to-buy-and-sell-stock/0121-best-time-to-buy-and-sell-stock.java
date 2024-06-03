@@ -5,9 +5,13 @@ class Solution {
       for(int i=1;i<prices.length;i++){
         if(prices[i]<buy){
             buy=prices[i];
-        }else if(prices[i]-buy>profit){
-            profit=prices[i]-buy;
         }
+         profit = Math.max(profit, prices[i] - buy);
+
+        // we can also use this 
+        // else if(prices[i]-buy>profit){
+        //     profit=prices[i]-buy;
+        // }
       }
       return profit;
     }
