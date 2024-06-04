@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uaayush01/LeetCode--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/uaayush01/LeetCode--2/tree/master/0128-longest-consecutive-sequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/uaayush01/LeetCode--2/tree/master/2271-rearrange-array-elements-by-sign) |
 # Dynamic Programming
 |  |
@@ -19,3 +20,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/uaayush01/LeetCode--2/tree/master/2271-rearrange-array-elements-by-sign) |
+# Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/uaayush01/LeetCode--2/tree/master/0128-longest-consecutive-sequence) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/uaayush01/LeetCode--2/tree/master/0128-longest-consecutive-sequence) |
