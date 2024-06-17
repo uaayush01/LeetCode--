@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/uaayush01/LeetCode--2/tree/master/0876-hand-of-straights) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/uaayush01/LeetCode--2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/uaayush01/LeetCode--2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uaayush01/LeetCode--2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Hash Table
 |  |
 | ------- |
@@ -45,7 +46,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/uaayush01/LeetCode--2/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/uaayush01/LeetCode--2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uaayush01/LeetCode--2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/uaayush01/LeetCode--2/tree/master/0268-missing-number) |
+# Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uaayush01/LeetCode--2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
