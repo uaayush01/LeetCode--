@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/uaayush01/LeetCode--2/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/uaayush01/LeetCode--2/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/uaayush01/LeetCode--2/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/uaayush01/LeetCode--2/tree/master/0876-hand-of-straights) |
 | [2442-number-of-arithmetic-triplets](https://github.com/uaayush01/LeetCode--2/tree/master/2442-number-of-arithmetic-triplets) |
 # Greedy
@@ -65,3 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/uaayush01/LeetCode--2/tree/master/2442-number-of-arithmetic-triplets) |
+# String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/uaayush01/LeetCode--2/tree/master/0782-jewels-and-stones) |
