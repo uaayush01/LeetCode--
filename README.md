@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/uaayush01/LeetCode--2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uaayush01/LeetCode--2/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/uaayush01/LeetCode--2/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/uaayush01/LeetCode--2/tree/master/0782-jewels-and-stones) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/uaayush01/LeetCode--2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uaayush01/LeetCode--2/tree/master/0268-missing-number) |
 | [0876-hand-of-straights](https://github.com/uaayush01/LeetCode--2/tree/master/0876-hand-of-straights) |
 # Math
@@ -69,4 +71,5 @@ Collection of LeetCode questions to ace the coding interview!
 # String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/uaayush01/LeetCode--2/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/uaayush01/LeetCode--2/tree/master/0782-jewels-and-stones) |
