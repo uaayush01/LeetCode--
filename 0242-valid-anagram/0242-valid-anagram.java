@@ -9,12 +9,12 @@ class Solution {
         Arrays.sort(str1);
         Arrays.sort(str2);
         // alternate way
-        for(int i=0;i<s.length();i++){
-            if(str1[i]!=str2[i]){
-                return false;
-            }
-        }
-        return true;
-        // return Arrays.equals(str1,str2);
+        // for(int i=0;i<s.length();i++){
+        //     if(str1[i]!=str2[i]){
+        //         return false;
+        //     }
+        // }
+        // return true;
+        return Arrays.equals(str1,str2);
     }
 }
