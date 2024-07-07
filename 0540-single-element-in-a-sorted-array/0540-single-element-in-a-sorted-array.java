@@ -12,7 +12,7 @@ class Solution {
         }else{
             start=mid+2;
         }
-       } 
+       }
        return nums[start];
     }
 }
