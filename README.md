@@ -73,3 +73,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/uaayush01/LeetCode--2/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/uaayush01/LeetCode--2/tree/master/0782-jewels-and-stones) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
+<!---LeetCode Topics End-->
