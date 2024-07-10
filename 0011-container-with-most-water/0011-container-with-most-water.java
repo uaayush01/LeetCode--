@@ -3,14 +3,15 @@ class Solution {
         int left = 0;
         int right = height.length - 1;
         int maxArea = 0;
+        int minH=0;
 
         while (left < right) {
-            int currentArea = Math.min(height[left], height[right]) * (right - left);
-            maxArea = Math.max(maxArea, currentArea);
+             minH= Math.min(height[left], height[right]);
+            maxArea = Math.max(maxArea,(right-left)*minH);
 
-            if (height[left] < height[right]) {
+            while (height[left] <=minH && left<right) {
                 left++;
-            } else {
+            } while(left<right && height[right]<=minH) {
                 right--;
             }
         }
