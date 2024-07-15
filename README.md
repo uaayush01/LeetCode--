@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0198-house-robber](https://github.com/uaayush01/LeetCode--2/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1635-number-of-good-pairs](https://github.com/uaayush01/LeetCode--2/tree/master/1635-number-of-good-pairs) |
@@ -107,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/uaayush01/LeetCode--2/tree/master/1635-number-of-good-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/uaayush01/LeetCode--2/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
