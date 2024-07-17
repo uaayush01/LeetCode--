@@ -5,11 +5,12 @@ class Solution {
         
         for(int i = 0; i < nums.length; i++) {
             ans[i] = nums[i];
+              ans[i + nums.length] = nums[i];
         }
         
-        for(int i = 0; i < nums.length; i++) {
-            ans[i + nums.length] = nums[i];
-        }
+        // for(int i = 0; i < nums.length; i++) {
+          
+        // }
         
         return ans;
     }
