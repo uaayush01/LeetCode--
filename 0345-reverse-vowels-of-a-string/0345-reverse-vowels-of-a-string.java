@@ -1,28 +1,35 @@
 class Solution {
     public String reverseVowels(String s) {
-        char [] word = s.toCharArray();
+        int i = 0;
+        int j = s.length() - 1;
+        HashSet<Character> set = new HashSet<>();
+        StringBuffer str = new StringBuffer(s);
 
-      int start=0;
-      int end=s.length()-1;
-      String vowels ="aeiouAEIOU";
-
-      while(start<end){
-           // move start pointer until it find vowels
-           while(start<end && vowels.indexOf(word[start])== -1){
-            start++;
-           }
-        // move end pointer till it finds vowels
-        while(start<end && vowels.indexOf(word[end])==-1){
-            end--;
+        set.add('a');
+        set.add('e');
+        set.add('i');
+        set.add('o');
+        set.add('u');
+        set.add('A');
+        set.add('E');
+        set.add('I');
+        set.add('O');
+        set.add('U');
+        while(i < j){
+            if(set.contains(s.charAt(i)) && set.contains(s.charAt(j))){
+                str.setCharAt(i, s.charAt(j));
+                str.setCharAt(j, s.charAt(i));
+                i++;
+                j--;
+            }else if(set.contains(s.charAt(i)) && !set.contains(s.charAt(j))){
+                j--;
+            }else if(!set.contains(s.charAt(i)) && set.contains(s.charAt(j))){
+                i++;
+            }else{
+                i++;
+                j--;
+            }
         }
-        char temp=word[start];
-        word[start]=word[end];
-        word[end]=temp;
-
-        start++;
-        end--;
-        }
-        String answer = newString(word);
-        return answer;
+        return str.toString();
     }
 }
