@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/uaayush01/LeetCode--2/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/uaayush01/LeetCode--2/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/uaayush01/LeetCode--2/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/uaayush01/LeetCode--2/tree/master/0520-detect-capital) |
 ## Stack
