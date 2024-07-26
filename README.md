@@ -160,4 +160,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uaayush01/LeetCode--2/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
