@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/uaayush01/LeetCode--2/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/uaayush01/LeetCode--2/tree/master/1635-number-of-good-pairs) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/uaayush01/LeetCode--2/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/uaayush01/LeetCode--2/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/uaayush01/LeetCode--2/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/uaayush01/LeetCode--2/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
@@ -183,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/uaayush01/LeetCode--2/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
