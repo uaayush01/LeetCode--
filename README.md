@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/uaayush01/LeetCode--2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/uaayush01/LeetCode--2/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0908-middle-of-the-linked-list) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uaayush01/LeetCode--2/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
@@ -179,12 +181,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/uaayush01/LeetCode--2/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/uaayush01/LeetCode--2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/uaayush01/LeetCode--2/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
