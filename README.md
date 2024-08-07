@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/uaayush01/LeetCode--2/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/uaayush01/LeetCode--2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/uaayush01/LeetCode--2/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/uaayush01/LeetCode--2/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/uaayush01/LeetCode--2/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/uaayush01/LeetCode--2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0142-linked-list-cycle-ii) |
