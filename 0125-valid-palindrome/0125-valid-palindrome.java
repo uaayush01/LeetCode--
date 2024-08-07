@@ -43,7 +43,7 @@ class Solution {
     }
 }
 
-
+ // simpler but less optimized approach
 //     public boolean isPalindrome(String s) {
 //        if(s.equals(" ")){
 //            return true;
