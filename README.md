@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/uaayush01/LeetCode--2/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/uaayush01/LeetCode--2/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -202,4 +203,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/uaayush01/LeetCode--2/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/uaayush01/LeetCode--2/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
