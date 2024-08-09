@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/uaayush01/LeetCode--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/uaayush01/LeetCode--2/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/uaayush01/LeetCode--2/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/uaayush01/LeetCode--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/uaayush01/LeetCode--2/tree/master/0198-house-robber) |
 ## Sorting
 |  |
