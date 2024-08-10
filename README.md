@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/uaayush01/LeetCode--2/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/uaayush01/LeetCode--2/tree/master/0520-detect-capital) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/uaayush01/LeetCode--2/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
