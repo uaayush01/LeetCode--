@@ -8,7 +8,8 @@ class Solution {
                 }else{
                     stack.push(ch);
                 }
-            }else{
+            }
+            else{
                 stack.push(ch);
             }
         }
