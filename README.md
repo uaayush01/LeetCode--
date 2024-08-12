@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/uaayush01/LeetCode--2/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0520-detect-capital](https://github.com/uaayush01/LeetCode--2/tree/master/0520-detect-capital) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
