@@ -9,11 +9,12 @@ class Solution {
             stack.push(c);
         }
       }
-      StringBuilder result = new StringBuilder();
-            while (!stack.isEmpty()) {
-                result.append(stack.pop());
-            }
-
-            return result.reverse().toString();
+      String ans="";
+        while(!stack.isEmpty())
+        {
+            ans=stack.pop()+ans;
+        }
+      
+        return ans;
     }
 }
