@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/uaayush01/LeetCode--2/tree/master/0228-summary-ranges) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
+| [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1580-shuffle-the-array](https://github.com/uaayush01/LeetCode--2/tree/master/1580-shuffle-the-array) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hash Table
