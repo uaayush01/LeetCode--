@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/uaayush01/LeetCode--2/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/uaayush01/LeetCode--2/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/uaayush01/LeetCode--2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/uaayush01/LeetCode--2/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/uaayush01/LeetCode--2/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/uaayush01/LeetCode--2/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/uaayush01/LeetCode--2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/uaayush01/LeetCode--2/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/uaayush01/LeetCode--2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0206-reverse-linked-list) |
