@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uaayush01/LeetCode--2/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/uaayush01/LeetCode--2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Design
 |  |
 | ------- |
