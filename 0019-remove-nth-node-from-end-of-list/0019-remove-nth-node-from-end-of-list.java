@@ -13,22 +13,22 @@ class Solution {
         if(head==null||head.next==null){
             return null;
         }
-        int length=0;
+        int p1=0;
         ListNode curr=head;
         while(curr!=null){
-            length++;
+            p1++;
             curr=curr.next;
         }
-        int size=length-n;
+        int p2=p1-n;
     
         ListNode newCurr=head;
-        // ListNode prev=null;
-        if(size==0){
+        
+        if(p2==0){
             return head.next;
         }
-        while(size!=1){
+        while(p2!=1){
             newCurr=newCurr.next;
-            size--;
+            p2--;
         }
        newCurr.next=newCurr.next.next;
         
