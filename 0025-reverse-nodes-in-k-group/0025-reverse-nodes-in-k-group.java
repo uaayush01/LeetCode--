@@ -12,7 +12,7 @@ class Solution {
 
     private ListNode[] reverseList(ListNode head, int k)
     {
-        ListNode curr = head
+        ListNode curr = head;
         ListNode prev = null, next = null;
 
        for(int i = 0; i < k; i++){
