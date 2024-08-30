@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/uaayush01/LeetCode--2/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/uaayush01/LeetCode--2/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/uaayush01/LeetCode--2/tree/master/0520-detect-capital) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/uaayush01/LeetCode--2/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/uaayush01/LeetCode--2/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -265,5 +268,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
