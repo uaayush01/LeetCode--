@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/uaayush01/LeetCode--2/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/uaayush01/LeetCode--2/tree/master/0228-summary-ranges) |
+| [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/uaayush01/LeetCode--2/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0148-sort-list](https://github.com/uaayush01/LeetCode--2/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/uaayush01/LeetCode--2/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/uaayush01/LeetCode--2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
