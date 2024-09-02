@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/uaayush01/LeetCode--2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uaayush01/LeetCode--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/uaayush01/LeetCode--2/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/uaayush01/LeetCode--2/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/uaayush01/LeetCode--2/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/uaayush01/LeetCode--2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uaayush01/LeetCode--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/uaayush01/LeetCode--2/tree/master/0198-house-robber) |
 ## Sorting
