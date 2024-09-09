@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uaayush01/LeetCode--2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/uaayush01/LeetCode--2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uaayush01/LeetCode--2/tree/master/0160-intersection-of-two-linked-lists) |
@@ -191,11 +192,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uaayush01/LeetCode--2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uaayush01/LeetCode--2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uaayush01/LeetCode--2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/uaayush01/LeetCode--2/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/uaayush01/LeetCode--2/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
