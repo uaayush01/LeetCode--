@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
+| [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/uaayush01/LeetCode--2/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
 | [1635-number-of-good-pairs](https://github.com/uaayush01/LeetCode--2/tree/master/1635-number-of-good-pairs) |
 | [2634-minimum-common-value](https://github.com/uaayush01/LeetCode--2/tree/master/2634-minimum-common-value) |
 ## Math
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uaayush01/LeetCode--2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uaayush01/LeetCode--2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uaayush01/LeetCode--2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
