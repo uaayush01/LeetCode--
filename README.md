@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
+| [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uaayush01/LeetCode--2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2634-minimum-common-value](https://github.com/uaayush01/LeetCode--2/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/uaayush01/LeetCode--2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uaayush01/LeetCode--2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uaayush01/LeetCode--2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -288,5 +291,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uaayush01/LeetCode--2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
