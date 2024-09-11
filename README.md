@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/uaayush01/LeetCode--2/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/uaayush01/LeetCode--2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/uaayush01/LeetCode--2/tree/master/1635-number-of-good-pairs) |
 | [2634-minimum-common-value](https://github.com/uaayush01/LeetCode--2/tree/master/2634-minimum-common-value) |
 ## Math
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/uaayush01/LeetCode--2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uaayush01/LeetCode--2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/uaayush01/LeetCode--2/tree/master/0520-detect-capital) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/uaayush01/LeetCode--2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
