@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/uaayush01/LeetCode--2/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/uaayush01/LeetCode--2/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/uaayush01/LeetCode--2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uaayush01/LeetCode--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/uaayush01/LeetCode--2/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/uaayush01/LeetCode--2/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/uaayush01/LeetCode--2/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/uaayush01/LeetCode--2/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/uaayush01/LeetCode--2/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uaayush01/LeetCode--2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/uaayush01/LeetCode--2/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/uaayush01/LeetCode--2/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
