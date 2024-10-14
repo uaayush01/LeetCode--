@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/uaayush01/LeetCode--2/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/uaayush01/LeetCode--2/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/uaayush01/LeetCode--2/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/uaayush01/LeetCode--2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/uaayush01/LeetCode--2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uaayush01/LeetCode--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/uaayush01/LeetCode--2/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
