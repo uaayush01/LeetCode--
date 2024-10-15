@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uaayush01/LeetCode--2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
+| [3396-valid-word](https://github.com/uaayush01/LeetCode--2/tree/master/3396-valid-word) |
 ## Stack
 |  |
 | ------- |
