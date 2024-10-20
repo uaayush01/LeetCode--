@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
+| [0924-fair-candy-swap](https://github.com/uaayush01/LeetCode--2/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/uaayush01/LeetCode--2/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uaayush01/LeetCode--2/tree/master/0540-single-element-in-a-sorted-array) |
+| [0924-fair-candy-swap](https://github.com/uaayush01/LeetCode--2/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2634-minimum-common-value](https://github.com/uaayush01/LeetCode--2/tree/master/2634-minimum-common-value) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/uaayush01/LeetCode--2/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/uaayush01/LeetCode--2/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/uaayush01/LeetCode--2/tree/master/0496-next-greater-element-i) |
+| [0924-fair-candy-swap](https://github.com/uaayush01/LeetCode--2/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uaayush01/LeetCode--2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/uaayush01/LeetCode--2/tree/master/1635-number-of-good-pairs) |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/uaayush01/LeetCode--2/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/uaayush01/LeetCode--2/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
+| [0924-fair-candy-swap](https://github.com/uaayush01/LeetCode--2/tree/master/0924-fair-candy-swap) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/uaayush01/LeetCode--2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
