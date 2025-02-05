@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1580-shuffle-the-array](https://github.com/uaayush01/LeetCode--2/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/uaayush01/LeetCode--2/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/uaayush01/LeetCode--2/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/uaayush01/LeetCode--2/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/uaayush01/LeetCode--2/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/uaayush01/LeetCode--2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/uaayush01/LeetCode--2/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/uaayush01/LeetCode--2/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/uaayush01/LeetCode--2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/uaayush01/LeetCode--2/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/uaayush01/LeetCode--2/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/uaayush01/LeetCode--2/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/uaayush01/LeetCode--2/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
