@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/uaayush01/LeetCode--2/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/uaayush01/LeetCode--2/tree/master/0966-binary-subarrays-with-sum) |
+| [0979-di-string-match](https://github.com/uaayush01/LeetCode--2/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/uaayush01/LeetCode--2/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/uaayush01/LeetCode--2/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/uaayush01/LeetCode--2/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/uaayush01/LeetCode--2/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/uaayush01/LeetCode--2/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/uaayush01/LeetCode--2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/uaayush01/LeetCode--2/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/uaayush01/LeetCode--2/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/uaayush01/LeetCode--2/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/uaayush01/LeetCode--2/tree/master/0979-di-string-match) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hash Table
 |  |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0520-detect-capital](https://github.com/uaayush01/LeetCode--2/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/uaayush01/LeetCode--2/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/uaayush01/LeetCode--2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/uaayush01/LeetCode--2/tree/master/0979-di-string-match) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uaayush01/LeetCode--2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/uaayush01/LeetCode--2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2470-removing-stars-from-a-string](https://github.com/uaayush01/LeetCode--2/tree/master/2470-removing-stars-from-a-string) |
